@@ -1829,7 +1829,7 @@
     "sideBar.border": "#b9090c46",
     "list.inactiveSelectionBackground": "#3d121a54",
     "list.inactiveSelectionForeground": "#cccccc",
-    "list.hoverBackground": "#993b4a",
+    "list.hoverBackground": "#ffffff1e",
     "list.hoverForeground": "#ffffff",
     "list.activeSelectionBackground": "#1a1919",
     "list.activeSelectionForeground": "#ffffff",
