@@ -1,0 +1,32 @@
+{
+  "name": "Burgundy-theme",
+  "displayName": "Burgundy theme",
+  "description": "[DESCRIPTION GOES HERE]",
+  "version": "1.0.1",
+  "publisher": "local",
+  "author": {
+    "name": "[AUTHOR NAME]"
+  },
+  "license": "UNLICENSED",
+  "icon": "images/thumbnail.png",
+  "keywords": [],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Burgundy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/burgundy-color-theme.json"
+      }
+    ]
+  }
+}
