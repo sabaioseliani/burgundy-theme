@@ -7,6 +7,9 @@
   "author": {
     "name": "[AUTHOR NAME]"
   },
+  "scripts": {
+    "vsix": "npx @vscode/vsce package"
+  },
   "license": "UNLICENSED",
   "icon": "images/thumbnail.png",
   "keywords": [],
