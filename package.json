@@ -20,6 +20,10 @@
     "ui",
     "workspace"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabaioseliani/burgundy-theme.git"
+  },
   "contributes": {
     "themes": [
       {
